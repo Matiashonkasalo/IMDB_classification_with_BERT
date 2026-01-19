@@ -214,8 +214,3 @@ Epoch 3/3 | Train Loss: 0.3714 | Val Loss: 0.3652 | Val Acc: 85.89%
 2. **Hinton, G., Vinyals, O., & Dean, J. (2015).** [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 3. **Maas, A. L., et al. (2011).** [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/data/sentiment/) - IMDb Dataset
 
-
-
-## Acknowledgments
-
-Built with PyTorch, Hugging Face Transformers, and MLflow.
